@@ -22,9 +22,7 @@ you work in any other app. All the steps are visible at once — no swiping, no
 tapping, no losing your place. Controls to advance or dismiss live in a **Live
 Activity** in Notification Center.
 
-<!-- Drop your screen recording here.
-     15–20 seconds of the card floating over Settings does more than any
-     paragraph on this page. -->
+<!--https://github.com/user-attachments/assets/b58c59f4-e791-458f-933b-ec579358e6ef-->
 
 ## Status
 
