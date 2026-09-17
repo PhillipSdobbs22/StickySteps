@@ -22,7 +22,7 @@ you work in any other app. All the steps are visible at once — no swiping, no
 tapping, no losing your place. Controls to advance or dismiss live in a **Live
 Activity** in Notification Center.
 
-<!--https://github.com/user-attachments/assets/b58c59f4-e791-458f-933b-ec579358e6ef-->
+https://github.com/user-attachments/assets/b58c59f4-e791-458f-933b-ec579358e6ef
 
 ## Status
 
